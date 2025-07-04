@@ -7,7 +7,7 @@
 • Use regular expression for match the user input
 • I develop this chatbot like the ui of the Chatgpt
 
-#Output
+# Output
 
 
 ![Financial Chat Image](https://github.com/user-attachments/assets/6e8320d9-11ca-42d4-908c-2b3123040701)
